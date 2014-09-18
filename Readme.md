@@ -15,8 +15,3 @@
 ```
 http://www.cc.iitb.ac.in/autoproxy.pac
 ```
-
-# Leoxsys Password
-```
-a7c3959e
-```
